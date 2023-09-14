@@ -1,6 +1,8 @@
 # Readme - Detección de Autos con OpenCV
 Este código utiliza OpenCV, una biblioteca de visión por computadora, para detectar autos en un video. Asegúrate de tener OpenCV instalado en tu entorno de desarrollo antes de ejecutar este código.
 
+![Captura de pantalla 2023-09-14 163354](https://github.com/Lindapazw/reconocimiento-autos-python/assets/88910652/bb1e0f81-7a3b-45fa-be3d-7db2646a343e)
+
 ## Requisitos Previos
  Python (versión recomendada: 3.x)
 OpenCV (instalado con pip install opencv-python)
